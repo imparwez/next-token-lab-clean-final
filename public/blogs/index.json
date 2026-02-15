@@ -1,3 +1,7 @@
-[
- { "slug":"first-post","title":"My First AI Blog","tag":"LLM","date":"2026" }
-]
+{
+  "slug": "transformer",
+  "title": "Transformers Explained — How Attention Replaced Everything",
+  "tag": "LLM",
+  "date": "Feb 2026"
+}
+
